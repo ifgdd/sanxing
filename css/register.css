@@ -1,0 +1,184 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+ul,
+ol,
+li {
+  list-style: none; }
+
+u {
+  text-decoration: none; }
+
+i,
+em,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  font-style: normal; }
+
+a {
+  text-decoration: none;
+  color: #424242; }
+
+img {
+  display: block; }
+
+body {
+  font-family: Arial;
+  border: none; }
+
+div {
+  display: block; }
+
+body {
+  position: relative;
+  background: #f2f2f2; }
+
+.clearfn::after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+.clearfn {
+  zoom: 1; }
+
+#headerbox {
+  widows: 100%;
+  height: 89px;
+  background-color: #fff; }
+  #headerbox .header {
+    width: 1220px;
+    height: 100%;
+    margin: 0 auto; }
+    #headerbox .header .logo {
+      padding: 36px 24px 29px 24px; }
+      #headerbox .header .logo h1 img {
+        height: 18px; }
+
+#mainbox {
+  padding-top: 48px; }
+  #mainbox .main-inner {
+    width: 494px;
+    background-color: #fcfcfc;
+    border-radius: 26px;
+    border: 1px solid #d9d9d9;
+    padding: 60px 72px 90px 72px;
+    margin: 0 auto;
+    height: 100%; }
+    #mainbox .main-inner h2 {
+      font-size: 39px;
+      line-height: 1.23;
+      color: #0072de;
+      font-weight: 500;
+      text-align: center; }
+
+fieldset {
+  border: 0 none;
+  height: 100%; }
+  fieldset .input1 {
+    display: block;
+    width: 100%;
+    color: #909090;
+    border: none;
+    border-bottom: 1px solid #8c8c8c;
+    background-color: transparent;
+    box-sizing: border-box;
+    border-radius: 0;
+    outline: none;
+    height: 40px;
+    font-size: 18px; }
+  fieldset .input1:focus {
+    border-bottom: 2px solid #0072de; }
+  fieldset .div_username, fieldset .div_pnone {
+    display: block;
+    position: relative;
+    z-index: 1;
+    margin: 37px 0 24px 0; }
+    fieldset .div_username span, fieldset .div_pnone span {
+      font-size: 18px; }
+  fieldset .div_psd, fieldset .div_re_psd {
+    display: block;
+    position: relative;
+    z-index: 1;
+    margin: 37px 0 24px 0; }
+    fieldset .div_psd span, fieldset .div_re_psd span {
+      font-size: 18px; }
+  fieldset .button {
+    display: block;
+    width: 200px;
+    height: 44px;
+    margin: 68px 142px 0 auto;
+    border-radius: 22px;
+    padding: 8px 20px 7px 20px;
+    background-color: rgba(0, 0, 0, 0.06);
+    border-color: rgba(0, 0, 0, 0.06);
+    color: #252525; }
+  fieldset .code {
+    height: 100px;
+    width: 100%;
+    margin-top: 20px; }
+    fieldset .code .input2 {
+      display: block;
+      width: 150px;
+      height: 50px;
+      outline: none;
+      margin: 0 auto;
+      font-size: 35px; }
+    fieldset .code .text {
+      width: 150px;
+      height: 35px;
+      margin: 10px auto;
+      display: block;
+      border: none;
+      border-bottom: 1px solid #8c8c8c;
+      background-color: transparent;
+      box-sizing: border-box;
+      outline: none;
+      font-size: 30px;
+      text-align: center; }
+    fieldset .code .check {
+      display: block;
+      margin: 20px auto;
+      width: 50px;
+      height: 25px; }
+    fieldset .code .text:focus {
+      border-bottom: 2px solid #0072de; }
+
+.one-footer {
+  padding: 16px 0; }
+
+.one-footer .footer-inner {
+  margin: 0 auto;
+  width: 1220px; }
+  .one-footer .footer-inner img {
+    width: 144px; }
+
+.footer-logo {
+  width: 100%;
+  flex: none;
+  margin-bottom: 8px;
+  opacity: 1; }
+
+.footer-address {
+  order: 2;
+  width: 300px;
+  font-size: 12px;
+  font-style: normal;
+  opacity: 0.6;
+  display: inline; }
+
+.footer-links {
+  order: 3;
+  margin-left: inherit;
+  margin-right: 0;
+  display: inline-block;
+  font-size: 12px;
+  float: right; }

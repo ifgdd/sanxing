@@ -1,0 +1,416 @@
+[{
+    "title": "电视/影音/显示器",
+    "ctvItem": {
+        "lists": [{
+            "categorys": [{
+                    "listName": "8K电视",
+                    "sort": 1,
+                    "items": [{
+                            "floorKv": "images/ia_300000194.jpg",
+                            "salesprice": 99999.00,
+                            "pcImgpc": "images/ia_300000010.jpg",
+                            "listprice": 99999.00,
+                            "extentionCode": "E0012593",
+                            "subtitle": "24期免息  每天低至137元起",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "85英寸级 三星QLED 8K电视Q950TS"
+                        },
+                        {
+                            "salesprice": 69999.00,
+                            "pcImgpc": "images/ia_300000010.jpg",
+                            "listprice": 69999.00,
+                            "extentionCode": "E0012594",
+                            "subtitle": "24期免息  每天低至95.9元起",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "75英寸级 三星QLED 8K电视Q950TS"
+                        },
+                        {
+                            "salesprice": 49999.00,
+                            "pcImgpc": "images/ia_300000010.jpg",
+                            "listprice": 49999.00,
+                            "extentionCode": "E0012595",
+                            "subtitle": "24期免息 每天低至68.5元起",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "65英寸级 三星QLED 8K电视Q950TS"
+                        },
+                        {
+                            "salesprice": 12999.00,
+                            "pcImgpc": "images/ia_300000084.jpg",
+                            "listprice": 13999.00,
+                            "extentionCode": "E0012794",
+                            "subtitle": "24期免息  每天低至17.8元起",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "55英寸级 三星QLED 8K电视Q700T"
+                        },
+                        {
+                            "salesprice": 31999.00,
+                            "pcImgpc": "images/ia_300000084.jpg",
+                            "listprice": 32999.00,
+                            "extentionCode": "E0012792",
+                            "subtitle": "24期免息  每天低至43.9元起",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "75英寸级 三星QLED 8K电视Q700T"
+                        },
+                        {
+                            "salesprice": 18999.00,
+                            "pcImgpc": "images/ia_300000084.jpg",
+                            "listprice": 21999.00,
+                            "extentionCode": "E0012793",
+                            "subtitle": "24期免息  每天低至26元起",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "65英寸级 三星QLED 8K电视Q700T"
+                        }
+                    ]
+                },
+                {
+                    "listName": "量子点电视",
+                    "sort": 2,
+                    "items": [{
+                            "floorKv": "images/84be5907-603b-483a-b14a-1924c14b644b.png",
+                            "salesprice": 39999.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 41999.00,
+                            "extentionCode": "E0012596",
+                            "subtitle": "24期免息  每天低至54.8元起",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "85英寸三星QLED光质量子点电视 Q80T (2020)"
+                        },
+                        {
+                            "salesprice": 9799.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 12999.00,
+                            "extentionCode": "E0012598",
+                            "subtitle": "12期免息  每天低至26.9元起",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "65英寸三星QLED光质量子点电视 Q80T (2020)"
+                        },
+                        {
+                            "salesprice": 12999.00,
+                            "pcImgpc": "images/ia_300000084.jpg",
+                            "listprice": 14999.00,
+                            "extentionCode": "E0012872",
+                            "subtitle": "12期免息  每天低至35.7元起",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "75英寸三星QLED光质量子点电视 Q70T (2020)"
+                        },
+                        {
+                            "salesprice": 6999.00,
+                            "pcImgpc": "images/ia_300000084.jpg",
+                            "listprice": 8499.00,
+                            "extentionCode": "E0012984",
+                            "subtitle": "12期免息  每天低至19.2元起",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "title": "65英寸级 三星QLED光质量子点电视 Q7AT（2020）"
+                        },
+                        {
+                            "salesprice": 12999.00,
+                            "pcImgpc": "images/ia_300000084.jpg",
+                            "listprice": 14999.00,
+                            "extentionCode": "E0012985",
+                            "subtitle": "12期免息  每天低至35.7元起",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "title": "75英寸级 三星QLED光质量子点电视 Q7AT（2020）"
+                        },
+                        {
+                            "salesprice": 7499.00,
+                            "pcImgpc": "images/ia_300000081.jpg",
+                            "listprice": 8499.00,
+                            "extentionCode": "E0012873",
+                            "subtitle": "12期免息  每天低至20.6元起",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "65英寸级 三星QLED光质量子点电视 Q70T (2020)"
+                        }
+                    ]
+                },
+                {
+                    "listName": "Lifestyle",
+                    "sort": 3,
+                    "items": [{
+                            "floorKv": "images/6fd2a696-a55d-4fa1-b800-147db122f42b.png",
+                            "salesprice": 11999.00,
+                            "pcImgpc": "images/68246131-faac-4f64-a8ef-0a0a36bc0d0a.png",
+                            "listprice": 13999.00,
+                            "extentionCode": "E0012673",
+                            "subtitle": "24期免息  每天低至16.5元起",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "65英寸级 三星QLED光质量子点电视 画壁 系列（2020）"
+                        },
+                        {
+                            "salesprice": 8699.00,
+                            "pcImgpc": "images/68246131-faac-4f64-a8ef-0a0a36bc0d0a.png",
+                            "listprice": 8999.00,
+                            "extentionCode": "E0012875",
+                            "subtitle": "24期免息  每天低至12元起",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "55英寸级 三星QLED光质量子点电视 画境 系列 （2020）"
+                        },
+                        {
+                            "salesprice": 8499.00,
+                            "pcImgpc": "images/68246131-faac-4f64-a8ef-0a0a36bc0d0a.png",
+                            "listprice": 8999.00,
+                            "extentionCode": "E0012258",
+                            "subtitle": "24期免息  每天低至11.7元起",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "55英寸级 三星QLED光质量子点电视 画境 系列"
+                        },
+                        {
+                            "salesprice": 7699.00,
+                            "pcImgpc": "images/ia_300000011.jpg",
+                            "listprice": 7999.00,
+                            "extentionCode": "E0012550",
+                            "subtitle": "24期免息  每天低至10.6元起",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "49英寸级 三星QLED光质量子点电视 画境 系列 （2020）"
+                        },
+                        {
+                            "salesprice": 6699.00,
+                            "pcImgpc": "images/ia_300000011.jpg",
+                            "listprice": 6999.00,
+                            "extentionCode": "E0012551",
+                            "subtitle": "24期免息  每天低至9.2元起",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "43英寸级 三星QLED光质量子点电视 画境 系列 （2020）"
+                        },
+                        {
+                            "salesprice": 9499.00,
+                            "pcImgpc": "images/ia_300000011.jpg",
+                            "listprice": 9499.00,
+                            "extentionCode": "E0012674",
+                            "subtitle": "24期免息  每天低至13.1元起",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "55英寸级 三星QLED光质量子点电视 画壁 系列（2020）"
+                        }
+                    ]
+                },
+                {
+                    "listName": "4K超高清",
+                    "sort": 4,
+                    "items": [{
+                            "floorKv": "images/b6adecc2-373c-4cf3-9591-3f3e1d92b30c.png",
+                            "salesprice": 13999.00,
+                            "pcImgpc": "images/50563da6-8746-4d13-831f-39d32437c5f3.png",
+                            "listprice": 17999.00,
+                            "extentionCode": "E0011994",
+                            "subtitle": "12期免息  每天低至38.4元起",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "82英寸级 4K超高清电视 RU8000"
+                        },
+                        {
+                            "salesprice": 7299.00,
+                            "pcImgpc": "images/50563da6-8746-4d13-831f-39d32437c5f3.png",
+                            "listprice": 9999.00,
+                            "extentionCode": "E0012675",
+                            "subtitle": "12期免息  每天低至20元起",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "75英寸级 4K超高清电视 TU8800"
+                        },
+                        {
+                            "salesprice": 5299.00,
+                            "pcImgpc": "images/b25c4033-1e42-4121-a193-3ca96072bfd5.png",
+                            "listprice": 7499.00,
+                            "extentionCode": "E0012676",
+                            "subtitle": "6期免息  每天低至29.2元起",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "65英寸级 4K超高清电视 TU8800"
+                        },
+                        {
+                            "salesprice": 3999.00,
+                            "pcImgpc": "images/b25c4033-1e42-4121-a193-3ca96072bfd5.png",
+                            "listprice": 4999.00,
+                            "extentionCode": "E0012677",
+                            "subtitle": "购机优惠1000元",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "55英寸级 4K超高清电视 TU8800"
+                        },
+                        {
+                            "salesprice": 3799.00,
+                            "pcImgpc": "images/3e15eae7-20cf-4d27-a211-c0ef1f1cb1bd.png",
+                            "listprice": 6499.00,
+                            "extentionCode": "E0012139",
+                            "subtitle": "购机优惠2700元",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "65英寸级 4K超高清电视 RU7550"
+                        },
+                        {
+                            "salesprice": 2299.00,
+                            "pcImgpc": "images/894b4841-a66e-47a6-8a6c-3f9f57c5e48b.png",
+                            "listprice": 3699.00,
+                            "extentionCode": "E0012257",
+                            "subtitle": "购机优惠1400元",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "55英寸级 4K超高清电视 RUF58T"
+                        }
+                    ]
+                },
+                {
+                    "listName": "音响",
+                    "sort": 5,
+                    "items": [{
+                            "floorKv": "images/92c4c2de-cfad-41d5-8bf6-9a06ff9a3b3c.png",
+                            "salesprice": 12999.00,
+                            "pcImgpc": "images/b40c6f8b-c37d-4b0a-9050-9c8f718b27cd.png",
+                            "listprice": 14990.00,
+                            "extentionCode": "E0012797",
+                            "subtitle": "购机优惠1991元 享至高24期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "回音壁条形音响 HW-Q950T"
+                        },
+                        {
+                            "salesprice": 7499.00,
+                            "pcImgpc": "images/b40c6f8b-c37d-4b0a-9050-9c8f718b27cd.png",
+                            "listprice": 9990.00,
+                            "extentionCode": "E0012791",
+                            "subtitle": "购机优惠2491元 享至高12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "回音壁条形音响 HW-Q900T"
+                        },
+                        {
+                            "salesprice": 3999.00,
+                            "pcImgpc": "images/b40c6f8b-c37d-4b0a-9050-9c8f718b27cd.png",
+                            "listprice": 5990.00,
+                            "extentionCode": "E0012721",
+                            "subtitle": "购机优惠1991元",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "回音壁条形音响 HW-Q70T"
+                        },
+                        {
+                            "salesprice": 2999.00,
+                            "pcImgpc": "images/b40c6f8b-c37d-4b0a-9050-9c8f718b27cd.png",
+                            "listprice": 4490.00,
+                            "extentionCode": "E0012722",
+                            "subtitle": "购机优惠1491元",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "回音壁条形音响 HW-Q60T"
+                        }
+                    ]
+                },
+                {
+                    "listName": "显示器",
+                    "sort": 6,
+                    "items": [{
+                            "floorKv": "images/bfe6b079-f84b-40fd-81fe-0f3e33b37b6a.png",
+                            "salesprice": 9999.00,
+                            "pcImgpc": "images/624b51b2-e39f-4231-8ab1-6468af9ab04e.png",
+                            "listprice": 11999.00,
+                            "extentionCode": "E0012735",
+                            "subtitle": "优惠2000元 赠鼠标垫和保温杯",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "49英寸 曲面液晶显示器 C49G95TSSC"
+                        },
+                        {
+                            "salesprice": 8499.00,
+                            "pcImgpc": "images/624b51b2-e39f-4231-8ab1-6468af9ab04e.png",
+                            "listprice": 8999.00,
+                            "extentionCode": "E0011883",
+                            "subtitle": "优惠500元 赠鼠标垫和保温杯",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "48.8英寸 曲面超宽显示器 C49RG90SSC"
+                        },
+                        {
+                            "salesprice": 5799.00,
+                            "pcImgpc": "images/f73266b7-5566-4f9f-8f07-8edf670ac77c.png",
+                            "listprice": 5999.00,
+                            "extentionCode": "E0012720",
+                            "subtitle": "优惠200元 赠鼠标垫和保温杯",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "32英寸 曲面液晶显示器 LC32G75TQSC"
+                        },
+                        {
+                            "salesprice": 4799.00,
+                            "pcImgpc": "images/4133bf51-38f9-445a-9fca-4f1d5b9a9a73.png",
+                            "listprice": 4999.00,
+                            "extentionCode": "E0012719",
+                            "subtitle": "优惠200元 赠鼠标垫和保温杯",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "27英寸 曲面液晶显示器 LC27G75TQSC"
+                        },
+                        {
+                            "salesprice": 1949.00,
+                            "pcImgpc": "images/4133bf51-38f9-445a-9fca-4f1d5b9a9a73.png",
+                            "listprice": 1999.00,
+                            "extentionCode": "E0012530",
+                            "subtitle": "优惠50元 赠鼠标垫和保温杯",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "32英寸 曲面液晶显示器 C32T550FDC"
+                        },
+                        {
+                            "salesprice": 1499.00,
+                            "pcImgpc": "images/894b4841-a66e-47a6-8a6c-3f9f57c5e48b.png",
+                            "listprice": 1599.00,
+                            "extentionCode": "E0012529",
+                            "subtitle": "优惠100元 赠鼠标垫和保温杯",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "27英寸 曲面液晶显示器 C27T550FDC"
+                        }
+                    ]
+                }
+            ]
+        }]
+    }
+}]

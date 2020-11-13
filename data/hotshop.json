@@ -1,0 +1,36 @@
+[{
+    "title": "热销推荐",
+    "childs": [{
+            "id": 0,
+            "img": "images/ia_300000061.jpg",
+            "title": "Galaxy S20 5G",
+            "desc": "限时立省1500元 享12期免息",
+            "price": 5999.00,
+            "del": 6999.00
+        },
+        {
+            "id": 1,
+            "img": "images/ia_300000062.jpg",
+            "title": "Galaxy S20 Ultra 5G",
+            "desc": "限时立省1500元 享12期免息",
+            "price": 8999.00,
+            "del": 9999.00
+        },
+        {
+            "id": 2,
+            "img": "images/ia_300000063.jpg",
+            "title": "Galaxy Note20 Ultra 5G",
+            "desc": "享12期免息 赠好礼",
+            "price": 9199.00,
+            "del": null
+        },
+        {
+            "id": 3,
+            "img": "images/ia_300000064.jpg",
+            "title": "Galaxy Z Flip 5G",
+            "desc": "以旧换新至高补贴2000元",
+            "price": 12499.00,
+            "del": null
+        }
+    ]
+}]

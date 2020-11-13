@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>购物车结算</title>
+    <link rel="stylesheet" href="css/cart.css">
+    <link rel="stylesheet" href="iconfont/iconfont.css">
+    <script src="js/jquery-1.10.1.min.js"></script>
+    <script src="/js/jquery.cookie.js"></script>
+    <script src='js/require.js' defer async='true' data-main='js/cart.js'></script>
+</head>
+
+<body>
+    <!-- header -->
+    <div id="header">
+        <div class="header-banner">
+            <div class='l'><a href="">三星网上商城</a></div>
+            <div class="r">
+                <section>
+                    <a href="index.html">
+                        <span>三星官网</span>
+                        <i class="iconfont">&#xe7ac;</i>
+                    </a>
+                    <a href="index.html">
+                        <span>盖乐世社区</span>
+                        <i class="iconfont">&#xe7ac;</i>
+                    </a>
+                    <a href="index.html">
+                        <span>三星旗舰体验店（外滩）</span>
+                        <i class="iconfont">&#xe7ac;</i>
+                    </a>
+                </section>
+            </div>
+        </div>
+    </div>
+    <!-- logo -->
+    <div id="logo">
+        <div class="page-nav">
+            <h1>
+                <a href="index.html">
+                    <img src="images/ia_300000000.png" alt="三星官网">
+                </a>
+            </h1>
+            <ul class="nav">
+                <li>
+                    <a href="list.html"> <span>智能手机</span></a>
+                </li>
+                <li>
+                    <a href="list.html">
+                        <span>可穿戴设备</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="list.html">
+                        <span>电视/影音/显示器</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="list.html">
+                        <span>电脑/平板/存储</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="list.html">
+                        <span>配件</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="list.html">
+                        <span>智能家具</span>
+                    </a>
+                </li>
+            </ul>
+            <div class="sub-menu">
+                <section class="left1">
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000002.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000003.jpg" alt="">
+                            <p>Galaxy Z Flip 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000004.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20</p>
+                            <p>Ultra 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000005.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20+ 5G</p>
+                        </a>
+                    </li>
+                </section>
+                <section class="right1">
+                    <ul>
+                        <li> Galaxy Z</li>
+                        <li>Galaxy S</li>
+                        <li> Galaxy Note</li>
+                        <li>Galaxy A</li>
+                        <li>三星 W</li>
+                    </ul>
+                </section>
+            </div>
+            <div class="sub-menu">
+                <section class="left1">
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000006.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000007.jpg" alt="">
+                            <p>Galaxy Z Flip 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000008.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20</p>
+                            <p>Ultra 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000009.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20+ 5G</p>
+                        </a>
+                    </li>
+                </section>
+                <section class="right1">
+                    <ul>
+                        <li>Samsung Galaxy Buds</li>
+                        <li>Samsung Galaxy Watch Active</li>
+                        <li> Samsung Galaxy Watch</li>
+                        <li>Galaxy A</li>
+                        <li>三星 W</li>
+                    </ul>
+                </section>
+            </div>
+            <div class="sub-menu">
+                <section class="left1">
+                    <li>
+                        <a href="">
+                            <img src="images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/894b4841-a66e-47a6-8a6c-3f9f57c5e48b.png" alt="">
+                            <p>Galaxy Z Flip 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000012.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20</p>
+                            <p>Ultra 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000010.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20+ 5G</p>
+                        </a>
+                    </li>
+                </section>
+                <section class="right1">
+                    <ul>
+                        <li> 8K电视</li>
+                        <li> 量子点电视</li>
+                        <li> Lifestyle</li>
+                        <li>4k 超高清</li>
+                        <li>音响</li>
+                    </ul>
+                </section>
+            </div>
+            <div class="sub-menu">
+                <section class="left1">
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000014.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000015.jpg" alt="">
+                            <p>Galaxy Z Flip 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000016.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20</p>
+                            <p>Ultra 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000017.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20+ 5G</p>
+                        </a>
+                    </li>
+                </section>
+                <section class="right1">
+                    <ul>
+                        <li> 笔记本电脑</li>
+                        <li>平板电脑</li>
+                        <li> 存储设备</li>
+                    </ul>
+                </section>
+            </div>
+            <div class="sub-menu">
+                <section class="left1">
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000018.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000019.jpg" alt="">
+                            <p>Galaxy Z Flip 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000020.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20</p>
+                            <p>Ultra 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000021.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20+ 5G</p>
+                        </a>
+                    </li>
+                </section>
+                <section class="right1">
+                    <ul>
+                        <li> 保护类</li>
+                        <li>电源类</li>
+                        <li>音频类</li>
+                        <li>连接类</li>
+                    </ul>
+                </section>
+            </div>
+            <div class="sub-menu">
+                <section class="left1">
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000022.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000023.jpg" alt="">
+                            <p>Galaxy Z Flip 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000024.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20</p>
+                            <p>Ultra 5G</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="images/ia_300000025.jpg" alt="">
+                            <p>Samsung</p>
+                            <p> Galaxy S20+ 5G</p>
+                        </a>
+                    </li>
+                </section>
+                <section class="right1">
+                    <ul>
+                        <li> 健康生活类</li>
+                        <li>便捷生活类</li>
+                        <li> 安全智能</li>
+                        <li>时尚酷玩</li>
+                    </ul>
+                </section>
+            </div>
+            <ul class="rightnav">
+                <li>
+                    <a href="index.html">
+                        <i class="iconfont">&#xe605;</i>
+                        <span>400 700 6548</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="login.html">
+                        <i class="iconfont">&#xe604;</i>
+                        <span>登录</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="iconfont">&#xe614;</i>
+                    </a>
+                </li>
+                <li>
+                    <a href="cart.html">
+                        <i class="iconfont">&#xe60a;</i>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+    <!-- 内容部分 -->
+    <div class="container">
+        <!-- 小蓝条 -->
+        <div class="section sam-progress sam-progress-4 sam-progress-curval-1 enent-not-login">
+            <ul class="list-unstyled float-clearfix">
+                <li class="sam-progress-step-1">
+                    <i>1</i>
+                    <a style="cursor: default;">查看购物车</a>
+                </li>
+                <li class="sam-progress-step-3">
+                    <i>2</i>
+                    <a style="cursor: default;">登录</a>
+                </li>
+                <li class="sam-progress-step-3">
+                    <i>3</i>
+                    <a style="cursor: default;">确认订单信息</a>
+                </li>
+                <li class="sam-progress-step-4">
+                    <i>4</i>
+                    <a style="cursor: default;">提交并付款</a>
+                </li>
+            </ul>
+            <div class="sam-progress-bar "></div>
+        </div>
+        <!-- 购物车静态页面，后该动态 -->
+        <div class="section shopcart-content events-check-box">
+            <!-- <div class="shopcart-title-box float-clearfix shopcart-padding"></div> -->
+            <!-- 全选 菜单栏 -->
+            <div class="shopcart-list-title">
+                <i class="icon icon-checked is-active" style="display: block;"></i>
+                <div class="shopcart-list-leftimg float-clearfix" style="display: block;">
+                    <p class="events-check-all" name="all">全选</p>
+                    <p class="shopcart-total none block-xs">
+                        <span class="shopcart-total-title">总计：</span>
+                        <span class="shopcart-total-price" id="miniTotal">￥0.00</span>
+                    </p>
+                </div>
+                <div class="shopcart-list-right float-clearfix">
+                    <div class="shopcart-goods">
+                        商品
+                    </div>
+                    <div class="shopcart-unit-price">
+                        单价
+                    </div>
+                    <div class="shopcart-jifen">
+                        获得积分
+                    </div>
+                    <div class="shopcart-qty">
+                        数量
+                    </div>
+                    <div class="shopcart-sum">
+                        金额
+                    </div>
+                </div>
+            </div>
+
+            <!-- 选中商品 -->
+            <div class="shopcart-list-content">
+
+            </div>
+
+            <!-- 总价 -->
+            <div class="shopcost-sum-box float-clearfix">
+                <!-- 总计￥0.00  获得积分 -->
+                <div class="shopcost-sum float-right">
+                    <div>
+                        <span class="shopcost-sum-title">总计：<a class="addprices"></a>元</span>
+                    </div>
+                    <div>
+                        <span class="jifen">总积分：<a class="addprice"></a></span>
+                    </div>
+                </div>
+            </div>
+            <!-- 结算 -->
+            <div class="shopcart-pay float-clearfix">
+                <!-- 却结算按钮 -->
+                <a href="" id="toPay" class="btn">去结算</a>
+                <!-- 继续购物 -->
+                <a href="../../index.html" class="buy-continue">
+                    <i class="icon icon-arrow"></i> 继续购物
+                </a>
+            </div>
+        </div>
+
+        <!-- 猜你喜欢 -->
+        <div class="section new-recommend-section new-recommend-color-section">
+            <p class="new-recommend-title">你可能会喜欢</p>
+            <div class="row new-recommend-list">
+                <!-- 商品添加 -->
+                <!-- <div class="col-10-2 col-xs-12-6">
+                    <div class="thumbnail">
+                        <a class="shoppingCartRecommendProducts" target=_blank>
+                            <img src="images/da3881bb-0546-4f38-9e1e-638516e63ecb.png" alt="">
+                            <h2>Samsung Galaxy Fold</h2>
+                        </a>
+                        <p>￥15999.00</p>
+                        <a href="javascript:void(0)" class="btn my-events-addToCart" myskuid="">加入购物车</a>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+        <!-- 支付方式 -->
+        <div class="section row payment-section">
+            <div class="col-10-7 payment-list">
+                <p>支持的支付方式</p>
+                <ul>
+                    <li>
+                        <img src="images/pay_01.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="images/pay_05.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class="col-10-3 payment-list">
+                <p>物流保障</p>
+                <ul>
+                    <li>
+                        <img src="images/pay_06.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

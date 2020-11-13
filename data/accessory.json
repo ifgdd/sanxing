@@ -1,0 +1,198 @@
+[{
+    "title": "配件",
+    "accessoryItem": {
+        "lists": [{
+            "categorys": [{
+                    "listName": "保护类",
+                    "sort": 0,
+                    "items": [{
+                            "floorKv": "images/92c4c2de-cfad-41d5-8bf6-9a06ff9a3b3c.png",
+                            "salesprice": 428.00,
+                            "pcImgpc": "images/ia_300000100.jpg",
+                            "listprice": 428.00,
+                            "extentionCode": "T090480",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy Z Fold2 5G立式支架保护壳"
+                        },
+                        {
+                            "salesprice": 169.00,
+                            "pcImgpc": "images/ia_300000101.jpg",
+                            "listprice": 169.00,
+                            "extentionCode": "T090493",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy S20 FE 5G 立式透明保护壳"
+                        },
+                        {
+                            "salesprice": 179.00,
+                            "pcImgpc": "images/ia_300000102.jpg",
+                            "listprice": 179.00,
+                            "extentionCode": "T090410",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "Galaxy Note20 5G 硅胶保护壳"
+                        },
+                        {
+                            "salesprice": 259.00,
+                            "pcImgpc": "images/ia_300000103.jpg",
+                            "listprice": 259.00,
+                            "extentionCode": "T090417",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "Galaxy Note20 5G 立式保护壳"
+                        },
+                        {
+                            "salesprice": 249.00,
+                            "pcImgpc": "images/ia_300000101.jpg",
+                            "listprice": 249.00,
+                            "extentionCode": "T090390",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "Galaxy Z Flip 5G透明保护壳"
+                        },
+                        {
+                            "salesprice": 259.00,
+                            "pcImgpc": "/images/ia_300000103.jpg",
+                            "listprice": 259.00,
+                            "extentionCode": "T090426",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "Galaxy Note20 5G KVADRAT 环保织物保护壳"
+                        }
+                    ]
+                },
+                {
+                    "listName": "电源类",
+                    "sort": 1,
+                    "items": [{
+                            "floorKv": "images/a3a6e124-c664-4a4d-b0c9-91ce22a12fe3.png",
+                            "salesprice": 219.00,
+                            "pcImgpc": "images/ia_300000019.jpg",
+                            "listprice": 219.00,
+                            "extentionCode": "T090354",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "旅行充电器 25W"
+                        },
+                        {
+                            "salesprice": 249.00,
+                            "pcImgpc": "images/ia_300000020.jpg",
+                            "listprice": 249.00,
+                            "extentionCode": "T090351",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "双向加速充电移动电源 2020"
+                        },
+                        {
+                            "salesprice": 299.00,
+                            "pcImgpc": "images/ia_300000021.jpg",
+                            "listprice": 299.00,
+                            "extentionCode": "T090253",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "旅行充电器 45W"
+                        },
+                        {
+                            "salesprice": 228.00,
+                            "pcImgpc": "images/ia_300000022.jpg",
+                            "listprice": 228.00,
+                            "extentionCode": "T090100",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "无线加速充电板"
+                        },
+                        {
+                            "salesprice": 108.00,
+                            "pcImgpc": "images/ia_300000023.jpg",
+                            "listprice": 108.00,
+                            "extentionCode": "E0009655",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "三星 旅行充电器 Type C"
+                        }
+                    ]
+                },
+                {
+                    "listName": "音频类",
+                    "sort": 2,
+                    "items": [{
+                            "floorKv": "images/ia_300000195.jpg",
+                            "salesprice": 799.00,
+                            "pcImgpc": "images/ia_300000018.jpg",
+                            "listprice": 1299.00,
+                            "extentionCode": "T090141",
+                            "subtitle": "优惠500元",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "AKG Y500BT 贴耳式无线蓝牙耳机"
+                        },
+                        {
+                            "salesprice": 79.00,
+                            "pcImgpc": "images/ia_300000018.jpg",
+                            "listprice": 79.00,
+                            "extentionCode": "E0009024",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "入耳式耳机"
+                        }
+                    ]
+                },
+                {
+
+                    "listName": "连接类",
+                    "sort": 3,
+                    "items": [{
+                            "floorKv": "images/3f27ed10-8908-4703-b036-dde6807c1426.png",
+                            "salesprice": 69.00,
+                            "pcImgpc": "images/17f9bf7e-6d16-4729-a4fa-aadc7ccf8353.png",
+                            "listprice": 69.00,
+                            "extentionCode": "E0009654",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "三星 Micro USB-C 数据线"
+                        },
+                        {
+                            "salesprice": 228.00,
+                            "pcImgpc": "images/9df50252-9604-45df-95ef-57ea3a6b0799.png",
+                            "listprice": 228.00,
+                            "extentionCode": "T090436",
+                            "subtitle": null,
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "动感硅胶表带(42mm)"
+                        }
+                    ]
+                }
+            ]
+        }]
+    }
+}]

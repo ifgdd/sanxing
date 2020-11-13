@@ -1,0 +1,67 @@
+[{
+    "title": "智能家居",
+    "homeItem": {
+        "lists": [{
+            "categorys": [{
+                "sort": 0,
+                "items": [{
+                        "floorKv": "images/ia_300000197.jpg",
+                        "salesprice": 219.00,
+                        "pcImgpc": "images/ia_300000107.jpg",
+                        "listprice": 219.00,
+                        "extentionCode": "T090172",
+                        "subtitle": null,
+                        "needBroadwiseShow": null,
+                        "sort": 2,
+                        "tag": null,
+                        "title": "智能台灯"
+                    },
+                    {
+                        "salesprice": 119.00,
+                        "pcImgpc": "images/ia_300000107.jpg",
+                        "listprice": 119.00,
+                        "extentionCode": "T090181",
+                        "subtitle": null,
+                        "needBroadwiseShow": null,
+                        "sort": 0,
+                        "tag": null,
+                        "title": "智能体脂秤"
+                    },
+                    {
+                        "salesprice": 499.00,
+                        "pcImgpc": "images/ia_300000107.jpg",
+                        "listprice": 499.00,
+                        "extentionCode": "T090163",
+                        "subtitle": null,
+                        "needBroadwiseShow": null,
+                        "sort": 1,
+                        "tag": null,
+                        "title": "智能空气检测仪"
+                    },
+                    {
+                        "salesprice": 999.00,
+                        "pcImgpc": "images/ia_300000107.jpg",
+                        "listprice": 999.00,
+                        "extentionCode": "T090176",
+                        "subtitle": null,
+                        "needBroadwiseShow": null,
+                        "sort": 3,
+                        "tag": null,
+                        "title": "Jimu-变形工程车（锂电池）"
+                    },
+                    {
+                        "salesprice": 4999.00,
+                        "pcImgpc": "images/ia_300000107.jpg",
+                        "listprice": 4999.00,
+                        "extentionCode": "T090175",
+                        "subtitle": null,
+                        "needBroadwiseShow": null,
+                        "sort": 4,
+                        "tag": null,
+                        "title": "Alpha Mini便携式机器人"
+                    }
+                ]
+            }]
+        }]
+    }
+}]

@@ -1,0 +1,52 @@
+[{
+    "title": "可穿戴设备",
+    "childs": [{
+            "id": 0,
+            "img": "images/ia_300000077.jpg",
+            "title": "Samsung Galaxy Buds Live",
+            "desc": "限时立省100元 享12期免息",
+            "price": 1199.00,
+            "del": 1099.00
+        },
+        {
+            "id": 1,
+            "img": "images/ia_300000008.jpg",
+            "title": "Samsung Galaxy Watch3 蓝牙版 45mm",
+            "desc": "享12期免息 赠好礼",
+            "price": 1799.00,
+            "del": 1699.00
+        },
+        {
+            "id": 2,
+            "img": "images/ia_300000078.jpg",
+            "title": "Samsung Galaxy Watch Active2 蓝牙版 44mm 不锈钢版",
+            "desc": "享12期免息 赠好礼",
+            "price": 2799.00,
+            "del": 2599.00
+        },
+        {
+            "id": 3,
+            "img": "images/ia_300000074.jpg",
+            "title": "Samsung Galaxy Watch3 LTE 45mm",
+            "desc": "享12期免息 赠好礼",
+            "price": 3099.00,
+            "del": 3000.00
+        },
+        {
+            "id": 4,
+            "img": "images/ia_300000073.jpg",
+            "title": "Samsung Galaxy Buds+",
+            "desc": "享12期免息 赠好礼",
+            "price": 3099.00,
+            "del": 2699.00
+        },
+        {
+            "id": 5,
+            "img": "images/ia_300000076.jpg",
+            "title": "Samsung Galaxy Watch3 蓝牙版 41mm",
+            "desc": "享12期免息 赠好礼",
+            "price": 799.00,
+            "del": 599.00
+        }
+    ]
+}]

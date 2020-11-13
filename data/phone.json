@@ -1,0 +1,305 @@
+[{
+    "title": "智能手机",
+    "mobileItem": {
+        "lists": [{
+            "categorys": [{
+
+                    "listName": "全部",
+                    "sort": 0,
+                    "items": [{
+                            "floorKv": "images/ia_300000192.jpg",
+                            "salesprice": 12499.00,
+                            "pcImgpc": "images/3539e82a-52cc-41ed-9d01-6205088aa1d1.png",
+                            "listprice": 12499.00,
+                            "extentionCode": "T070128",
+                            "subtitle": "以旧换新至高补贴2000元",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "Galaxy Z Flip 5G"
+                        },
+                        {
+                            "salesprice": 5999.00,
+                            "pcImgpc": "images/3539e82a-52cc-41ed-9d01-6205088aa1d1.png",
+                            "listprice": 6999.00,
+                            "extentionCode": "T070095",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy S20 5G"
+                        },
+                        {
+                            "salesprice": 16999.00,
+                            "pcImgpc": "images/3539e82a-52cc-41ed-9d01-6205088aa1d1.png",
+                            "listprice": 16999.00,
+                            "extentionCode": "T070126",
+                            "subtitle": "赠24个月优惠换屏服务",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy Z Fold2 5G"
+                        },
+                        {
+                            "salesprice": 6999.00,
+                            "pcImgpc": "images/3539e82a-52cc-41ed-9d01-6205088aa1d1.png",
+                            "listprice": 7999.00,
+                            "extentionCode": "T070096",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "Galaxy S20+ 5G"
+                        },
+                        {
+                            "salesprice": 8999.00,
+                            "pcImgpc": "images/3539e82a-52cc-41ed-9d01-6205088aa1d1.png",
+                            "listprice": 9999.00,
+                            "extentionCode": "T070099",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "Galaxy S20 Ultra 5G"
+                        },
+                        {
+                            "salesprice": 9199.00,
+                            "pcImgpc": "images/3539e82a-52cc-41ed-9d01-6205088aa1d1.png",
+                            "listprice": 9199.00,
+                            "extentionCode": "T070113",
+                            "subtitle": "12期免息 赠Galaxy Buds live",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "Galaxy Note20 Ultra 5G"
+                        }
+                    ]
+                },
+                {
+
+                    "listName": "Galaxy S",
+                    "sort": 2,
+                    "items": [{
+                            "floorKv": "images/ia_300000196.jpg",
+                            "salesprice": 5999.00,
+                            "pcImgpc": "images/8481f386-4d3b-4476-9804-185e5a3dc18b.png",
+                            "listprice": 6999.00,
+                            "extentionCode": "T070095",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "Galaxy S20 5G"
+                        },
+                        {
+                            "salesprice": 4999.00,
+                            "pcImgpc": "images/8481f386-4d3b-4476-9804-185e5a3dc18b.png",
+                            "listprice": 4999.00,
+                            "extentionCode": "T070130",
+                            "subtitle": "限时立省700元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy S20 FE 5G"
+                        },
+                        {
+                            "salesprice": 8999.00,
+                            "pcImgpc": "images/8481f386-4d3b-4476-9804-185e5a3dc18b.png",
+                            "listprice": 9999.00,
+                            "extentionCode": "T070105",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "Galaxy S20 Ultra 5G 意象白"
+                        },
+                        {
+                            "salesprice": 6999.00,
+                            "pcImgpc": "images/8481f386-4d3b-4476-9804-185e5a3dc18b.png",
+                            "listprice": 7999.00,
+                            "extentionCode": "T070096",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy S20+ 5G"
+                        },
+                        {
+                            "salesprice": 8999.00,
+                            "pcImgpc": "images/8481f386-4d3b-4476-9804-185e5a3dc18b.png",
+                            "listprice": 9999.00,
+                            "extentionCode": "T070100",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "Galaxy S20 Ultra 5G 12GB+256GB"
+                        },
+                        {
+                            "salesprice": 10199.00,
+                            "pcImgpc": "images/8481f386-4d3b-4476-9804-185e5a3dc18b.png",
+                            "listprice": 11199.00,
+                            "extentionCode": "T070101",
+                            "subtitle": "限时立省1500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "Galaxy S20 Ultra 5G 16GB+512GB"
+                        }
+                    ]
+                }, {
+                    "listName": "Galaxy Note",
+                    "sort": 3,
+                    "items": [{
+                            "floorKv": "images/eabcb060-b135-4b7e-9cd2-59c0c4264457.png",
+                            "salesprice": 7399.00,
+                            "pcImgpc": "images/00672f64-2db0-47be-98be-86342709338b.png",
+                            "listprice": 7999.00,
+                            "extentionCode": "T070070",
+                            "subtitle": "优惠600元 享好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "Galaxy Note10+ 5G 莫奈彩"
+                        },
+                        {
+                            "salesprice": 8399.00,
+                            "pcImgpc": "images/00672f64-2db0-47be-98be-86342709338b.png",
+                            "listprice": 8999.00,
+                            "extentionCode": "T070069",
+                            "subtitle": "优惠600元 享好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "Galaxy Note10+ 5G 密斯白"
+                        },
+                        {
+                            "salesprice": 7399.00,
+                            "pcImgpc": "images/00672f64-2db0-47be-98be-86342709338b.png",
+                            "listprice": 7999.00,
+                            "extentionCode": "T070068",
+                            "subtitle": "优惠600元 享好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "Galaxy Note10+ 5G 麦昆黑"
+                        },
+                        {
+                            "salesprice": 9199.00,
+                            "pcImgpc": "images/00672f64-2db0-47be-98be-86342709338b.png",
+                            "listprice": 9199.00,
+                            "extentionCode": "T070112",
+                            "subtitle": "限时立省500元 赠Galaxy Buds live",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "Galaxy Note20 Ultra 5G 曜岩黑"
+                        },
+                        {
+                            "salesprice": 7399.00,
+                            "pcImgpc": "images/00672f64-2db0-47be-98be-86342709338b.png",
+                            "listprice": 7399.00,
+                            "extentionCode": "T070117",
+                            "subtitle": "限时立省300元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy Note20 5G 迷雾金"
+                        },
+                        {
+                            "salesprice": 9199.00,
+                            "pcImgpc": "images/00672f64-2db0-47be-98be-86342709338b.png",
+                            "listprice": 9199.00,
+                            "extentionCode": "T070113",
+                            "subtitle": "限时立省500元 赠Galaxy Buds live",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy Note20 Ultra 5G 迷雾金"
+                        }
+                    ]
+                },
+                {
+
+                    "listName": "Galaxy A",
+                    "sort": 4,
+                    "items": [{
+                            "floorKv": "images/e993c775-eb97-4764-aad9-1a7fc3e56a33.png",
+                            "salesprice": 2599.00,
+                            "pcImgpc": "images/ia_300000005.jpg",
+                            "listprice": 3399.00,
+                            "extentionCode": "T070102",
+                            "subtitle": "限时立省800元 赠好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy A71 5G 切割蓝"
+                        },
+                        {
+                            "salesprice": 2599.00,
+                            "pcImgpc": "images/ia_300000005.jpg",
+                            "listprice": 3399.00,
+                            "extentionCode": "T070103",
+                            "subtitle": "限时立省800元 赠好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy A71 5G 镭丝黑"
+                        }
+                    ]
+                },
+                {
+
+                    "listName": "Galaxy Z",
+                    "sort": 1,
+                    "items": [{
+                            "floorKv": "images/eb28c99e-0e7e-4f5a-bc2b-2fe1d4e8cc03.png",
+                            "salesprice": 16999.00,
+                            "pcImgpc": "images/ia_300000002.jpg",
+                            "listprice": 16999.00,
+                            "extentionCode": "T070126",
+                            "subtitle": "赠24个月优惠换屏服务",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy Z Fold2 5G 迷雾金"
+                        },
+                        {
+                            "salesprice": 12499.00,
+                            "pcImgpc": "images/ia_300000002.jpg",
+                            "listprice": 12499.00,
+                            "extentionCode": "T070119",
+                            "subtitle": "以旧换新至高补贴2000元",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy Z Flip 5G 迷雾金"
+                        },
+                        {
+                            "salesprice": 7999.00,
+                            "pcImgpc": "images/ia_300000002.jpg",
+                            "listprice": 11999.00,
+                            "extentionCode": "T070091",
+                            "subtitle": "限时立省4000元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "Galaxy Z Flip 潘多拉紫"
+                        },
+                        {
+                            "salesprice": 15999.00,
+                            "pcImgpc": "images/ia_300000002.jpg",
+                            "listprice": 15999.00,
+                            "extentionCode": "T070082",
+                            "subtitle": "享24期免息 赠好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "Samsung Galaxy Fold 量子黑"
+                        }
+                    ]
+                }
+            ]
+        }]
+    }
+}]

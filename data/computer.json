@@ -1,0 +1,222 @@
+[{
+    "title": "电脑/平板/存储",
+    "computerItem": {
+        "lists": [{
+            "categorys": [{
+                    "listName": "笔记本电脑",
+                    "sort": 0,
+                    "items": [{
+                            "floorKv": "images/7c46168c-12f5-462a-95f5-40fddb746e45.png",
+                            "salesprice": 7599.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 7999.00,
+                            "extentionCode": "T030042",
+                            "subtitle": "限时立省400元 12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "title": "Galaxy Book S 767XCM-K02"
+                        },
+                        {
+                            "salesprice": 13699.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 13999.00,
+                            "extentionCode": "T030031",
+                            "subtitle": "限时立省300元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "Galaxy Book Flex 950QCG-X01"
+                        },
+                        {
+                            "salesprice": 13699.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 13999.00,
+                            "extentionCode": "T030044",
+                            "subtitle": "限时立省300元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy Book Flex 950QCG-X03"
+                        },
+                        {
+                            "salesprice": 12699.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 13199.00,
+                            "extentionCode": "T030029",
+                            "subtitle": "限时立省500元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "Galaxy Book Flex 930QCG-K01"
+                        },
+                        {
+                            "salesprice": 12699.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 12999.00,
+                            "extentionCode": "T030043",
+                            "subtitle": "限时立省300元 享12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy Book Flex 930QCG-K03"
+                        },
+                        {
+                            "salesprice": 7599.00,
+                            "pcImgpc": "images/9bb652b1-7a31-4aba-8fca-b7e9269ba49e.png",
+                            "listprice": 7999.00,
+                            "extentionCode": "T030041",
+                            "subtitle": "限时立省400元 12期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "title": "Galaxy Book S 767XCM-K01"
+                        }
+                    ]
+                },
+                {
+                    "listName": "平板电脑",
+                    "sort": 1,
+                    "items": [{
+                            "floorKv": "images/84be5907-603b-483a-b14a-1924c14b644b.png",
+                            "salesprice": 5199.00,
+                            "pcImgpc": "images/ia_300000083.jpg",
+                            "listprice": 5199.00,
+                            "extentionCode": "T050054",
+                            "subtitle": "享24期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "Galaxy Tab S7 WLAN"
+                        },
+                        {
+                            "salesprice": 5299.00,
+                            "pcImgpc": "images/ia_300000083.jpg",
+                            "listprice": 5299.00,
+                            "extentionCode": "T050024",
+                            "subtitle": "享24期免息 赠好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "Galaxy Tab S6"
+                        },
+                        {
+                            "salesprice": 6699.00,
+                            "pcImgpc": "images/ia_300000083.jpg",
+                            "listprice": 6699.00,
+                            "extentionCode": "T050050",
+                            "subtitle": "享24期免息 赠好礼",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "Galaxy Tab S7 WLAN 键盘套装"
+                        },
+                        {
+                            "salesprice": 1899.00,
+                            "pcImgpc": "images/ia_300000083.jpg",
+                            "listprice": 1899.00,
+                            "extentionCode": "T050059",
+                            "subtitle": "享6期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "Galaxy Tab A7 LTE"
+                        },
+                        {
+                            "salesprice": 3099.00,
+                            "pcImgpc": "images/ia_300000083.jpg",
+                            "listprice": 3099.00,
+                            "extentionCode": "T050040",
+                            "subtitle": "享6期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "Galaxy Tab S6 Lite 4G"
+                        },
+                        {
+                            "salesprice": 8399.00,
+                            "pcImgpc": "images/ia_300000083.jpg",
+                            "listprice": 8399.00,
+                            "extentionCode": "T050045",
+                            "subtitle": "享24期免息",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "Galaxy Tab S7+ WLAN 键盘套装"
+                        }
+                    ]
+                },
+                {
+                    "listName": "存储产品",
+                    "sort": 2,
+                    "items": [{
+                            "floorKv": "images/aa31d6c7-f011-4ce1-b2bf-4787eed78fd8.png",
+                            "salesprice": 439.00,
+                            "pcImgpc": "images/2967854e-d03c-4d07-9431-aba4e4cfb063.png",
+                            "listprice": 499.00,
+                            "extentionCode": "E0012096",
+                            "subtitle": "强劲的性能 稳定性的提升",
+                            "needBroadwiseShow": null,
+                            "sort": 0,
+                            "tag": null,
+                            "title": "860 EVO 2.5英寸 SATAIII 固态硬盘 500GB版"
+                        },
+                        {
+                            "salesprice": 599.00,
+                            "pcImgpc": "images/2967854e-d03c-4d07-9431-aba4e4cfb063.png",
+                            "listprice": 699.00,
+                            "extentionCode": "E0012116",
+                            "subtitle": "不断超越的SSD",
+                            "needBroadwiseShow": null,
+                            "sort": 1,
+                            "tag": null,
+                            "title": "970 EVO Plus NVMe M.2 固态硬盘 500GB版"
+                        },
+                        {
+                            "salesprice": 739.00,
+                            "pcImgpc": "images/2967854e-d03c-4d07-9431-aba4e4cfb063.png",
+                            "listprice": 769.00,
+                            "extentionCode": "E0012798",
+                            "subtitle": "全面升级，性能优异",
+                            "needBroadwiseShow": null,
+                            "sort": 2,
+                            "tag": null,
+                            "title": "870 QVO SATA 2.5英寸 固态硬盘 1TB版"
+                        },
+                        {
+                            "salesprice": 1099.00,
+                            "pcImgpc": "images/2967854e-d03c-4d07-9431-aba4e4cfb063.png",
+                            "listprice": 1299.00,
+                            "extentionCode": "E0012668",
+                            "subtitle": "快如闪电的传输速度",
+                            "needBroadwiseShow": null,
+                            "sort": 3,
+                            "tag": null,
+                            "title": "T7 USB3.2 Gen2 移动固态硬盘 太空灰 1TB版"
+                        },
+                        {
+                            "salesprice": 259.00,
+                            "pcImgpc": "images/2967854e-d03c-4d07-9431-aba4e4cfb063.png",
+                            "listprice": 259.00,
+                            "extentionCode": "E0012469",
+                            "subtitle": "大容量，让您自由前行",
+                            "needBroadwiseShow": null,
+                            "sort": 4,
+                            "tag": null,
+                            "title": "EVO升级版+ MicroSD存储卡 128GB版"
+                        },
+                        {
+                            "salesprice": 150.00,
+                            "pcImgpc": "images/2967854e-d03c-4d07-9431-aba4e4cfb063.png",
+                            "listprice": 160.00,
+                            "extentionCode": "E0012502",
+                            "subtitle": "传输迅猛 USB 3.1标准",
+                            "needBroadwiseShow": null,
+                            "sort": 5,
+                            "tag": null,
+                            "title": "BAR升级版+ USB3.1 Gen1 闪存盘 香槟银 128GB版"
+                        }
+                    ]
+                }
+            ]
+        }]
+    }
+}]

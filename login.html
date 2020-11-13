@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录三星</title>
+    <link rel="stylesheet" href="css/login.min.css">
+    <script src="js/jquery-1.10.1.min.js"></script>
+</head>
+
+<body>
+    <!-- header -->
+    <header id="headerbox">
+        <div class="header">
+            <div class="logo">
+                <h1>
+                    <a href="login.html">
+                        <img src="images/logo.png" alt="">
+                    </a>
+                </h1>
+            </div>
+        </div>
+    </header>
+
+    <!-- container -->
+    <main id="mainbox" class="clearfn">
+        <div class="main-inner" class="clearfn">
+            <div class="loginForm">
+                <div class="title">
+                    <h2>登录您的三星账户</h2>
+                </div>
+                <div class="container">
+                    <form action="../php/login.php" method="POST" name="sanxing" class="clearfn"> 
+                        <fieldset class="clearfn">
+                            <div class="div_phone">
+                                <span>手机号</span>
+                                <input type="text" placeholder="输入手机号" class="input1  phone" name="phone">
+                            </div>
+                            <div class="div_password">
+                                <span>密码</span>
+                                <input type="password" placeholder="输入密码" class="input1  input_password" name="psd">
+                            </div>
+                            <input type="submit" class="denglu button"  value="登录">
+                        </fieldset>
+                    </form>
+                    <div class="register">
+                        <button class="button">
+                            <a href="register.html" target="_blank">注册</a>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- footer -->
+    <footer class="one-footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="footer-logo">
+                <img src="images/logo.png" alt="">
+            </div>
+            <div class="footer-address">Copyright © 1995-2020 SAMSUNG All Rights Reserved.
+            </div>
+            <div class="footer-links" role="link">
+                <a href="">条款和条件 |</a>
+                <a href="">三星隐私权政策 |</a>
+                <a href="">声明 |</a>
+                <a href="">联系我们</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        $(function () {
+           $('.denglu').click(function(){
+            //验证手机号(是否输入、格式)
+            var val_phone=$(".phone").val();
+            console.log(val_phone);
+             var myreg = /^1[34578]\d{9}$/; 
+             if(val_phone == ''){
+                 alert("手机号码不能为空！");//如果有这个错误  进来之后  提示  提示完  结束判断 也可以理解为跳出 return false;
+                  return false;
+             }else if(val_phone.length !=11){
+                alert("请输入有效的手机号码！");
+                return false;//同理
+                 //删除 一行代码 快捷键 ctrl+shift+K
+             }else if(!myreg.test(val_phone)){
+                alert("请输入有效的手机号码格式！"); //一样的提示
+                return false;//同理
+             }
+
+            //验证密码(是否输入、格式)
+            var val_psd=$(".input_password").val();
+            if (val_psd == '') {
+                alert("请输入密码！");
+                return false; 
+            }else if(!(val_psd.length >=4 && val_psd.length <= 32)){ 
+                alert("请输入有效的密码长度！");
+                return false;
+             }
+           })
+        })
+    </script>
+</body>
+
+</html>
