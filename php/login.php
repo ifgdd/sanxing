@@ -25,9 +25,8 @@
     $result= mysql_fetch_assoc($sql_result);
 
     if(!$result){
-        // 看好了哈
-        header("refresh:5;url='/login.html'");
-        print('该用户不存在！...<br>五秒后自动跳转。');
+        header("refresh:3;url='/login.html'");
+        print('该用户不存在！...<br>三秒后自动跳转。');
         return false;
     } 
     //以后只有两种结果的判断的话 尽量不写else 先判断错误的 
@@ -37,14 +36,14 @@
 
     //判断密码输入是否正确
     if($result['pwd']!==$psd){// 以后只有两种结果的判断的话 尽量不写else 先判断错误的 
-        header("refresh:5;url='/login.html'");
-        print('密码不正确请重新输入！...<br>五秒后自动跳转。');
+        header("refresh:3;url='/login.html'");
+        print('密码不正确请重新输入！...<br>三秒后自动跳转。');
         return false;
     }
 
     //登录成功后 跳转并返回值 
-   header("refresh:5;url='/index.html'");
-   print('登录成功！...<br>五秒后自动跳转。');
+   header("refresh:3;url='/index.html'");
+   print('登录成功！...<br>三秒后自动跳转。');
    return json_encode($result);
     
    

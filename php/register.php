@@ -30,8 +30,8 @@
    $sql_data= mysql_query($sql_isphone);
    $sql_data_res= mysql_fetch_array($sql_data);
    if($sql_data_res){
-      header("refresh:5;url='/register.html'");
-      print('该手机号已经注册！请勿重复注册！...<br>五秒后自动跳转。');
+      header("refresh:3;url='/register.html'");
+      print('该手机号已经注册！请勿重复注册！...<br>三秒后自动跳转。');
     return false;
    }
 
@@ -40,12 +40,12 @@
    //6、发送sql语句闭嘴
    $res = mysql_query($sql);
    if($res){
-        header("refresh:5;url='/login.html'");
-        print('注册成功！...<br>五秒后自动跳转。');
+        header("refresh:3;url='/login.html'");
+        print('注册成功！...<br>三秒后自动跳转。');
         return false;
    }else{
-        header("refresh:5;url='/register.html'");
-        print('注册失败,重新注册！...<br>五秒后自动跳转。');
+        header("refresh:3;url='/register.html'");
+        print('注册失败,重新注册！...<br>三秒后自动跳转。');
         return false;
    }
 ?>
